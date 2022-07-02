@@ -78,6 +78,7 @@ const RecipeIndex = ({ data, location }) => {
                 <div
                   style={{
                     display: "flex",
+                    flexWrap: "wrap",
                     flexDirection: "row",
                     justifyContent: "flex-start",
                     alignItems: "flex-start",
