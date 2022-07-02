@@ -1,11 +1,11 @@
 {
-  "name": "gatsby-starter-blog",
+  "name": "a-cookbook",
   "private": true,
-  "description": "A starter for a blog powered by Gatsby and Markdown",
+  "description": "一本食谱 | A personal collection of delicious recipes.",
   "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "Yicheng Shen",
   "bugs": {
-    "url": "https://github.com/gatsbyjs/gatsby/issues"
+    "url": "https://github.com/yichengshen/a-cookbook/issues"
   },
   "dependencies": {
     "@emotion/core": "^11.0.0",
@@ -43,14 +43,14 @@
     "gh-pages": "^4.0.0",
     "prettier": "^2.7.1"
   },
-  "homepage": "https://github.com/gatsbyjs/gatsby-starter-blog#readme",
+  "homepage": "https://www.yichengshen.com/a-cookbook/",
   "keywords": [
-    "gatsby"
+    "cookbook", "a-cookbook", "一本食谱"
   ],
-  "license": "0BSD",
+  "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gatsbyjs/gatsby-starter-blog.git"
+    "url": "git+https://github.com/yichengshen/a-cookbook.git"
   },
   "scripts": {
     "build": "gatsby build",
@@ -59,6 +59,7 @@
     "start": "gatsby develop",
     "serve": "gatsby serve",
     "clean": "gatsby clean",
-    "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1"
+    "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1",
+    "deploy": "gatsby build --prefix-paths && gh-pages -d public"
   }
 }

@@ -1,11 +1,12 @@
 module.exports = {
+  pathPrefix: "/a-cookbook",
   siteMetadata: {
     title: `一本食谱`,
     author: {
       name: `Yicheng Shen`,
     },
     description: `一本食谱 | A personal collection of delicious recipes.`,
-    siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
+    siteUrl: `https://www.yichengshen.com/a-cookbook/`,
     social: {
       twitter: `yichengs`,
     },
