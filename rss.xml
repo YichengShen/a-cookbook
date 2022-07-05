@@ -1,4 +1,106 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[A Cookbook RSS Feed]]></title><description><![CDATA[一本食谱 | A personal collection of delicious recipes.]]></description><link>https://www.yichengshen.com/a-cookbook</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 02 Jul 2022 07:56:01 GMT</lastBuildDate><item><title><![CDATA[蛋炒饭]]></title><description><![CDATA[食材 2 人份 材 量 备注 米 150g  鸡蛋 4 ～ 6 个  牛肉/鸡肉 250g 可不放 洋葱 小半个 可不放 冷冻蔬菜粒 100g…]]></description><link>https://www.yichengshen.com/a-cookbook/蛋炒饭/</link><guid isPermaLink="false">https://www.yichengshen.com/a-cookbook/蛋炒饭/</guid><pubDate>Sat, 02 Jul 2022 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;食材&lt;/h2&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[A Cookbook RSS Feed]]></title><description><![CDATA[一本食谱 | A personal collection of delicious recipes.]]></description><link>https://www.yichengshen.com/a-cookbook</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 05 Jul 2022 01:53:40 GMT</lastBuildDate><item><title><![CDATA[六月黄炒年糕]]></title><description><![CDATA[食材 2 ～ 3 人份 材 量 备注 六月黄 4 个  年糕 200g  姜片 6 片  蒜末 1 勺  生粉 适量  料酒 2 勺  生抽 2 勺  蚝油 2 勺  冰糖…]]></description><link>https://www.yichengshen.com/a-cookbook/六月黄炒年糕/</link><guid isPermaLink="false">https://www.yichengshen.com/a-cookbook/六月黄炒年糕/</guid><pubDate>Tue, 05 Jul 2022 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/a-cookbook/static/f329574eb6f139caed11ebaf0c40b7c8/d8f91/crab.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 75.31645569620254%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAECA//EABYBAQEBAAAAAAAAAAAAAAAAAAQCA//aAAwDAQACEAMQAAABqkxpZgaR/8QAGhAAAgIDAAAAAAAAAAAAAAAAAQIAAxESE//aAAgBAQABBQIMqsbASopI1zOcL1JP/8QAFhEBAQEAAAAAAAAAAAAAAAAAACEi/9oACAEDAQE/AYy//8QAFhEBAQEAAAAAAAAAAAAAAAAAABEi/9oACAECAQE/Aa0//8QAHRAAAgICAwEAAAAAAAAAAAAAAAECERIhQWFxof/aAAgBAQAGPwJtRo39Nxa8FLhlRoxnJ5dH/8QAGxABAAIDAQEAAAAAAAAAAAAAAQARITFhcVH/2gAIAQEAAT8h8mXcAoHguWJX5rEUE8I4qLqRGkG8p//aAAwDAQACAAMAAAAQf9//xAAYEQADAQEAAAAAAAAAAAAAAAAAARFBof/aAAgBAwEBPxCQNpvT/8QAGBEBAAMBAAAAAAAAAAAAAAAAAQARIaH/2gAIAQIBAT8QsatQHtcn/8QAHhAAAgICAgMAAAAAAAAAAAAAAREAIUFRYXGBkcH/2gAIAQEAAT8QZxEugNfYhihEED4zLRvdBcrHUIJEgdNy3kSwZXEXFFFAeqn/2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;六月黄炒年糕&quot;
+        title=&quot;六月黄炒年糕&quot;
+        src=&quot;/a-cookbook/static/f329574eb6f139caed11ebaf0c40b7c8/828fb/crab.jpg&quot;
+        srcset=&quot;/a-cookbook/static/f329574eb6f139caed11ebaf0c40b7c8/ff44c/crab.jpg 158w,
+/a-cookbook/static/f329574eb6f139caed11ebaf0c40b7c8/a6688/crab.jpg 315w,
+/a-cookbook/static/f329574eb6f139caed11ebaf0c40b7c8/828fb/crab.jpg 630w,
+/a-cookbook/static/f329574eb6f139caed11ebaf0c40b7c8/0ede0/crab.jpg 945w,
+/a-cookbook/static/f329574eb6f139caed11ebaf0c40b7c8/3ac88/crab.jpg 1260w,
+/a-cookbook/static/f329574eb6f139caed11ebaf0c40b7c8/d8f91/crab.jpg 1952w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h2&gt;食材&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;2 ～ 3 人份&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&quot;left&quot;&gt;材&lt;/th&gt;
+&lt;th align=&quot;left&quot;&gt;量&lt;/th&gt;
+&lt;th align=&quot;left&quot;&gt;备注&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&quot;left&quot;&gt;六月黄&lt;/td&gt;
+&lt;td align=&quot;left&quot;&gt;4 个&lt;/td&gt;
+&lt;td align=&quot;left&quot;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&quot;left&quot;&gt;年糕&lt;/td&gt;
+&lt;td align=&quot;left&quot;&gt;200g&lt;/td&gt;
+&lt;td align=&quot;left&quot;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&quot;left&quot;&gt;姜片&lt;/td&gt;
+&lt;td align=&quot;left&quot;&gt;6 片&lt;/td&gt;
+&lt;td align=&quot;left&quot;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&quot;left&quot;&gt;蒜末&lt;/td&gt;
+&lt;td align=&quot;left&quot;&gt;1 勺&lt;/td&gt;
+&lt;td align=&quot;left&quot;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&quot;left&quot;&gt;生粉&lt;/td&gt;
+&lt;td align=&quot;left&quot;&gt;适量&lt;/td&gt;
+&lt;td align=&quot;left&quot;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&quot;left&quot;&gt;料酒&lt;/td&gt;
+&lt;td align=&quot;left&quot;&gt;2 勺&lt;/td&gt;
+&lt;td align=&quot;left&quot;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&quot;left&quot;&gt;生抽&lt;/td&gt;
+&lt;td align=&quot;left&quot;&gt;2 勺&lt;/td&gt;
+&lt;td align=&quot;left&quot;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&quot;left&quot;&gt;蚝油&lt;/td&gt;
+&lt;td align=&quot;left&quot;&gt;2 勺&lt;/td&gt;
+&lt;td align=&quot;left&quot;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&quot;left&quot;&gt;冰糖&lt;/td&gt;
+&lt;td align=&quot;left&quot;&gt;1 小把&lt;/td&gt;
+&lt;td align=&quot;left&quot;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2&gt;步骤&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;六月黄斩对半，切面裹生粉&lt;/li&gt;
+&lt;li&gt;热油下姜片&lt;/li&gt;
+&lt;li&gt;煎六月黄&lt;/li&gt;
+&lt;li&gt;放蒜末、各种作料&lt;/li&gt;
+&lt;li&gt;加水没过六月黄，盖锅盖大火煮沸&lt;/li&gt;
+&lt;li&gt;加年糕，中小火&lt;/li&gt;
+&lt;li&gt;搅拌收汁&lt;/li&gt;
+&lt;/ol&gt;</content:encoded></item><item><title><![CDATA[蛋炒饭]]></title><description><![CDATA[食材 2 人份 材 量 备注 米 150g  鸡蛋 4 ～ 6 个  牛肉/鸡肉 250g 可不放 洋葱 小半个 可不放 冷冻蔬菜粒 100g…]]></description><link>https://www.yichengshen.com/a-cookbook/蛋炒饭/</link><guid isPermaLink="false">https://www.yichengshen.com/a-cookbook/蛋炒饭/</guid><pubDate>Sat, 02 Jul 2022 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;食材&lt;/h2&gt;
 &lt;blockquote&gt;
 &lt;p&gt;2 人份&lt;/p&gt;
 &lt;/blockquote&gt;
