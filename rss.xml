@@ -1,4 +1,100 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[A Cookbook RSS Feed]]></title><description><![CDATA[一本食谱 | A personal collection of delicious recipes.]]></description><link>https://www.yichengshen.com/a-cookbook</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 26 Aug 2022 21:20:39 GMT</lastBuildDate><item><title><![CDATA[番茄虾仁意面]]></title><description><![CDATA[食材 2 人份 意面 材料 量 备注 意面 200g 每人 100g 橄榄油、盐 少量 煮意面时加在水里 意面酱 材料 量 备注 虾仁 12 只  番茄 2 个  洋葱 0.3 个  蒜末 少量 可以用大蒜粉代替 胡椒 少量  罗勒叶 少量  意面酱 3-…]]></description><link>https://www.yichengshen.com/a-cookbook/番茄虾仁意面/</link><guid isPermaLink="false">https://www.yichengshen.com/a-cookbook/番茄虾仁意面/</guid><pubDate>Wed, 24 Aug 2022 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[A Cookbook RSS Feed]]></title><description><![CDATA[一本食谱 | A personal collection of delicious recipes.]]></description><link>https://www.yichengshen.com/a-cookbook</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 29 Aug 2022 02:20:53 GMT</lastBuildDate><item><title><![CDATA[牛油果吐司]]></title><description><![CDATA[食材 1 人份 材料 量 备注 切片面包 2 片  牛油果 0.5 个  鸡蛋 1 个  番茄 0.…]]></description><link>https://www.yichengshen.com/a-cookbook/牛油果吐司/</link><guid isPermaLink="false">https://www.yichengshen.com/a-cookbook/牛油果吐司/</guid><pubDate>Sun, 28 Aug 2022 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/a-cookbook/static/952c7854f2fbacbcf4acc9d31924404b/659cd/image.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 86.70886075949367%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAARABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAMF/8QAFgEBAQEAAAAAAAAAAAAAAAAAAAIB/9oADAMBAAIQAxAAAAHWhSE7ZZUxBcH/xAAaEAADAAMBAAAAAAAAAAAAAAAAAQIDEBEi/9oACAEBAAEFAqfErHHSvSx4nLKK1//EABcRAQADAAAAAAAAAAAAAAAAABEBICH/2gAIAQMBAT8BgNp//8QAFxEBAAMAAAAAAAAAAAAAAAAAEQEgIf/aAAgBAgEBPwGVyn//xAAbEAAABwEAAAAAAAAAAAAAAAAAARARICExcf/aAAgBAQAGPwJWLRtcj//EABsQAAMBAAMBAAAAAAAAAAAAAAABETEhQVGB/9oACAEBAAE/IefFtqPRDUV1J0qpg3oI39MoWH//2gAMAwEAAgADAAAAEB//AH//xAAWEQEBAQAAAAAAAAAAAAAAAABBICH/2gAIAQMBAT8Q1Ij/xAAWEQADAAAAAAAAAAAAAAAAAAAgIUH/2gAIAQIBAT8QSgP/xAAdEAEAAgICAwAAAAAAAAAAAAABABEhMUFRkaHx/9oACAEBAAE/EAejRjEBwaC1hL+RDRz1EpTbVDxzLMgWxQvrMqlmpoj2prn/2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;牛油果吐司&quot;
+        title=&quot;牛油果吐司&quot;
+        src=&quot;/a-cookbook/static/952c7854f2fbacbcf4acc9d31924404b/828fb/image.jpg&quot;
+        srcset=&quot;/a-cookbook/static/952c7854f2fbacbcf4acc9d31924404b/ff44c/image.jpg 158w,
+/a-cookbook/static/952c7854f2fbacbcf4acc9d31924404b/a6688/image.jpg 315w,
+/a-cookbook/static/952c7854f2fbacbcf4acc9d31924404b/828fb/image.jpg 630w,
+/a-cookbook/static/952c7854f2fbacbcf4acc9d31924404b/0ede0/image.jpg 945w,
+/a-cookbook/static/952c7854f2fbacbcf4acc9d31924404b/3ac88/image.jpg 1260w,
+/a-cookbook/static/952c7854f2fbacbcf4acc9d31924404b/659cd/image.jpg 2506w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h2&gt;食材&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;1 人份&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&quot;left&quot;&gt;材料&lt;/th&gt;
+&lt;th align=&quot;left&quot;&gt;量&lt;/th&gt;
+&lt;th align=&quot;left&quot;&gt;备注&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&quot;left&quot;&gt;切片面包&lt;/td&gt;
+&lt;td align=&quot;left&quot;&gt;2 片&lt;/td&gt;
+&lt;td align=&quot;left&quot;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&quot;left&quot;&gt;牛油果&lt;/td&gt;
+&lt;td align=&quot;left&quot;&gt;0.5 个&lt;/td&gt;
+&lt;td align=&quot;left&quot;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&quot;left&quot;&gt;鸡蛋&lt;/td&gt;
+&lt;td align=&quot;left&quot;&gt;1 个&lt;/td&gt;
+&lt;td align=&quot;left&quot;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&quot;left&quot;&gt;番茄&lt;/td&gt;
+&lt;td align=&quot;left&quot;&gt;0.2 个&lt;/td&gt;
+&lt;td align=&quot;left&quot;&gt;用来解腻（可不放）&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&quot;left&quot;&gt;黄油&lt;/td&gt;
+&lt;td align=&quot;left&quot;&gt;一小块&lt;/td&gt;
+&lt;td align=&quot;left&quot;&gt;多一点会比较香&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&quot;left&quot;&gt;胡椒&lt;/td&gt;
+&lt;td align=&quot;left&quot;&gt;少量&lt;/td&gt;
+&lt;td align=&quot;left&quot;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&quot;left&quot;&gt;盐&lt;/td&gt;
+&lt;td align=&quot;left&quot;&gt;少量&lt;/td&gt;
+&lt;td align=&quot;left&quot;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2&gt;步骤&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;牛油果切小块，捣成泥（备用）&lt;/li&gt;
+&lt;li&gt;番茄切片（备用）&lt;/li&gt;
+&lt;li&gt;煎蛋，上面撒盐、胡椒&lt;/li&gt;
+&lt;li&gt;用不粘锅，小火融化黄油，然后放入切片面包&lt;/li&gt;
+&lt;li&gt;翻面，让双面都吸收到黄油&lt;/li&gt;
+&lt;li&gt;&lt;u&gt;小火&lt;/u&gt;煎至面包酥脆，出锅&lt;/li&gt;
+&lt;li&gt;把牛油果涂在面包上，放上煎蛋、番茄&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2&gt;备注&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;选偏熟的牛油果&lt;/li&gt;
+&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[番茄虾仁意面]]></title><description><![CDATA[食材 2 人份 意面 材料 量 备注 意面 200g 每人 100g 橄榄油、盐 少量 煮意面时加在水里 意面酱 材料 量 备注 虾仁 12 只  番茄 2 个  洋葱 0.3 个  蒜末 少量 可以用大蒜粉代替 胡椒 少量  罗勒叶 少量  意面酱 3-…]]></description><link>https://www.yichengshen.com/a-cookbook/番茄虾仁意面/</link><guid isPermaLink="false">https://www.yichengshen.com/a-cookbook/番茄虾仁意面/</guid><pubDate>Wed, 24 Aug 2022 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
     &gt;
@@ -122,6 +218,7 @@
 &lt;li&gt;热油炒番茄、洋葱、蒜末&lt;/li&gt;
 &lt;li&gt;加意面酱、胡椒、罗勒叶，放入虾仁&lt;/li&gt;
 &lt;li&gt;加水，盖上锅盖煮 5 ～ 8 分钟&lt;/li&gt;
+&lt;li&gt;出锅前，加盐调味&lt;/li&gt;
 &lt;/ol&gt;
 &lt;h5&gt;完成&lt;/h5&gt;
 &lt;ol&gt;
