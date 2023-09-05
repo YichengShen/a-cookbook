@@ -17,16 +17,18 @@
     border-style: solid;
     border-color: var(--color-searchbox-border);
     background-color: var(--color-searchbox-background);
+    color: var(--color-text-input);
     padding: 5px 10px;
+}
+
+.post-search-wrapper input:focus {
+    color: var(--color-text-input);
+    background-color: var(--color-searchbox-background-focus);
+    outline-color: var(--color-searchbox-outline-focus);
 }
 
 .post-search-wrapper ::placeholder { 
     color: var(--color-text-prompt);
-}
-
-.post-search-wrapper input:focus {
-    background-color: var(--color-searchbox-background-focus);
-    outline-color: var(--color-searchbox-outline-focus);
 }
   
 .post-count-wrapper {

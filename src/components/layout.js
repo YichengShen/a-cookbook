@@ -25,6 +25,8 @@ const ThemedLayout = styled.div`
     props.theme.name === "dark" ? "#D8E9A8" : "#c26513"};
   --color-text-prompt: ${props =>
     props.theme.name === "dark" ? "#d1dce5" : "#6b6d6e"};
+  --color-text-input: ${props =>
+    props.theme.name === "dark" ? "white" : "black"};
   --color-searchbox-background: ${props =>
     props.theme.name === "dark" ? "#6b8c2199" : "#cda98999"};
   --color-searchbox-border: ${props =>
