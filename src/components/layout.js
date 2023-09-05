@@ -17,14 +17,27 @@ const themes = {
 }
 
 const ThemedLayout = styled.div`
+  --color-primary: ${props =>
+    props.theme.name === "dark" ? "#D8E9A8" : "#A27B5C"};
+  --color-heading: ${props =>
+    props.theme.name === "dark" ? "#cda989" : "#c26513"};
+  --color-link: ${props =>
+    props.theme.name === "dark" ? "#D8E9A8" : "#c26513"};
+  --color-text-prompt: ${props =>
+    props.theme.name === "dark" ? "#d1dce5" : "#6b6d6e"};
+  --color-searchbox-background: ${props =>
+    props.theme.name === "dark" ? "#6b8c2199" : "#cda98999"};
+  --color-searchbox-border: ${props =>
+    props.theme.name === "dark" ? "#5c814b99" : "#7e532999"};
+  --color-searchbox-background-focus: ${props =>
+    props.theme.name === "dark" ? "#6b8c2166" : "#cda98966"};
+  --color-searchbox-outline-focus: ${props =>
+    props.theme.name === "dark" ? "#5c814b" : "#7e5329"};
+
   color: ${props => themes[props.theme.name].foreground};
   background-color: ${props => themes[props.theme.name].background};
   transition: all 0.4s ease;
   min-height: 100vh;
-
-  & a {
-    color: ${props => (props.theme.name === "dark" ? "#D8E9A8" : "inherit")};
-  }
 `
 
 const Layout = ({ location, title, children }) => {

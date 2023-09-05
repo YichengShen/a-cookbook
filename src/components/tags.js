@@ -1,13 +1,13 @@
-import React from "react"
+import React, { useContext } from "react"
+import { ThemeContext } from "./ThemeContext"
 
 const Tags = ({ allTags }) => {
-  const colors = [
-    "#5c814b99",
-    "#6b8c2199",
-    "#c6be8099",
-    "#cda98999",
-    "#7e532999",
-  ]
+  const theme = useContext(ThemeContext)
+
+  let colors = ["#7e532999", "#cda98999", "#c6be8099", "#6b8c2199", "#5c814b99"]
+  if (theme.name === "dark") {
+    colors = colors.reverse()
+  }
   const colorsLength = colors.length
 
   return (

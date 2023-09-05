@@ -32,12 +32,14 @@ const Header = ({ location, title, theme }) => {
             theme.updateTheme(theme.name === "light" ? "dark" : "light")
           }
           checked={theme.name === "dark"}
-          onColor="#222"
-          offColor="#333"
+          onColor="#ffffff"
+          offColor="#050000"
+          onHandleColor="#fff3e0"
+          offHandleColor="#fff3e0"
           checkedIcon={<img src={moonIcon} alt="moon icon" />}
           uncheckedIcon={<img src={sunIcon} alt="sun icon" />}
-          boxShadow="0 0 2px 3px #4E9F3D"
-          activeBoxShadow="0 0 2px 3px #bee494"
+          boxShadow="0 0 2px 3px #FFD495"
+          activeBoxShadow="0 0 2px 3px #FFD495"
         />
       </div>
     </header>

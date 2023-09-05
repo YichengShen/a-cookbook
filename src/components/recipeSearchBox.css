@@ -15,14 +15,18 @@
     border-radius: 4px;
     border-width: 1px;
     border-style: solid;
-    border-color: var(--color-primary-transparent);
-    background-color: var(--color-background-light-transparent);
+    border-color: var(--color-searchbox-border);
+    background-color: var(--color-searchbox-background);
     padding: 5px 10px;
 }
 
+.post-search-wrapper ::placeholder { 
+    color: var(--color-text-prompt);
+}
+
 .post-search-wrapper input:focus {
-    background-color: var(--color-background-light);
-    outline-color: var(--color-primary);
+    background-color: var(--color-searchbox-background-focus);
+    outline-color: var(--color-searchbox-outline-focus);
 }
   
 .post-count-wrapper {

@@ -1,4 +1,5 @@
-import React from "react"
+import React, { useContext } from "react"
+import { ThemeContext } from "./ThemeContext"
 import {
   Chart as ChartJS,
   RadialLinearScale,
@@ -20,6 +21,8 @@ ChartJS.register(
 )
 
 const RadarChart = ({ protein, carb, fat, sugar, fibre }) => {
+  const theme = useContext(ThemeContext)
+
   const options = {
     responsive: true,
     plugins: {
@@ -38,7 +41,10 @@ const RadarChart = ({ protein, carb, fat, sugar, fibre }) => {
       r: {
         angleLines: {
           display: true,
-          color: "rgba(107, 163, 4, 0.2)",
+          color:
+            theme.name === "dark"
+              ? "rgba(107, 163, 4, 0.2)"
+              : "rgba(245, 190, 64, 0.3)",
         },
         beginAtZero: true,
         min: 0,
@@ -48,7 +54,16 @@ const RadarChart = ({ protein, carb, fat, sugar, fibre }) => {
           stepSize: 1,
         },
         grid: {
-          color: "rgba(107, 163, 4, 0.2)",
+          color:
+            theme.name === "dark"
+              ? "rgba(107, 163, 4, 0.2)"
+              : "rgba(245, 190, 64, 0.3)",
+        },
+        pointLabels: {
+          color:
+            theme.name === "dark"
+              ? "rgba(107, 163, 4, 0.6)"
+              : "rgba(245, 190, 64, 0.9)",
         },
       },
     },
@@ -59,8 +74,14 @@ const RadarChart = ({ protein, carb, fat, sugar, fibre }) => {
       {
         label: "含量",
         data: [protein, carb, fat, sugar, fibre],
-        backgroundColor: "rgba(107, 163, 4, 0.2)",
-        borderColor: "rgba(107, 163, 4, 1)",
+        backgroundColor:
+          theme.name === "dark"
+            ? "rgba(107, 163, 4, 0.2)"
+            : "rgba(245, 190, 64, 0.2)",
+        borderColor:
+          theme.name === "dark"
+            ? "rgba(107, 163, 4, 1)"
+            : "rgba(245, 190, 64, 1)",
         borderWidth: 2.5,
         pointRadius: 2,
       },
